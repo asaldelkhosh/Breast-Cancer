@@ -8,3 +8,5 @@ This project aims to classify two types of breast cancer (malignant, and benign)
 - pull out the target feature (diagnosis) from the dataframe
 - split the data into the train set and test set
 - build models
+- prediction
+- evaluation
