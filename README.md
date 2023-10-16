@@ -2,7 +2,7 @@
 
 This project uses the breast cancer dataset which is from [archive](https://goo.gl/U2Uwz2).<br>
 This project aims to classify two types of breast cancer (malignant, and benign).
-- find some information from the dataset
+- find some information from the dataset and visualization
 - map diagnosis values (m, b) to 1 and 0
 - drop unnecessary  features
 - pull out the target feature (diagnosis) from the dataframe
@@ -10,3 +10,11 @@ This project aims to classify two types of breast cancer (malignant, and benign)
 - build models
 - prediction
 - evaluation
+
+## SVM
+
+SVM prediction accuracy is %96
+
+## random forest
+
+random forest accuracy is %97
